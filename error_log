@@ -1,0 +1,135 @@
+[23-Mar-2014 21:32:32 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/rsanekne/public_html/comparibooks/index.php on line 114
+[23-Mar-2014 21:34:08 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/rsanekne/public_html/comparibooks/index.php on line 117
+[23-Mar-2014 21:34:12 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/rsanekne/public_html/comparibooks/index.php on line 117
+[23-Mar-2014 21:35:34 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 36
+[23-Mar-2014 21:37:41 America/Denver] PHP Parse error:  syntax error, unexpected '$response' (T_VARIABLE) in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 32
+[23-Mar-2014 21:38:02 America/Denver] PHP Warning:  Missing argument 1 for ItemSearch(), called in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 37 and defined in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 7
+[23-Mar-2014 21:38:02 America/Denver] PHP Warning:  Missing argument 2 for ItemSearch(), called in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 37 and defined in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 7
+[23-Mar-2014 21:38:02 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 32
+[23-Mar-2014 21:38:02 America/Denver] PHP Fatal error:  Call to undefined function printSearchResults() in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 34
+[23-Mar-2014 21:38:25 America/Denver] PHP Warning:  Missing argument 1 for ItemSearch(), called in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 44 and defined in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 7
+[23-Mar-2014 21:38:25 America/Denver] PHP Warning:  Missing argument 2 for ItemSearch(), called in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 44 and defined in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 7
+[23-Mar-2014 21:38:25 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 32
+[23-Mar-2014 21:38:25 America/Denver] PHP Fatal error:  Call to undefined function printSearchResults() in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 34
+[23-Mar-2014 21:39:21 America/Denver] PHP Warning:  Missing argument 1 for ItemSearch(), called in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 64 and defined in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 7
+[23-Mar-2014 21:39:21 America/Denver] PHP Warning:  Missing argument 2 for ItemSearch(), called in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 64 and defined in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 7
+[23-Mar-2014 21:39:21 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 32
+[23-Mar-2014 21:39:21 America/Denver] PHP Notice:  Undefined variable: numOfItems in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 46
+[23-Mar-2014 21:39:21 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 37
+[23-Mar-2014 21:39:21 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 37
+[23-Mar-2014 21:39:21 America/Denver] PHP Notice:  Undefined variable: numOfItems in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 46
+[23-Mar-2014 21:39:22 America/Denver] PHP Warning:  Missing argument 1 for ItemSearch(), called in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 64 and defined in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 7
+[23-Mar-2014 21:39:22 America/Denver] PHP Warning:  Missing argument 2 for ItemSearch(), called in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 64 and defined in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 7
+[23-Mar-2014 21:39:23 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 32
+[23-Mar-2014 21:39:23 America/Denver] PHP Notice:  Undefined variable: numOfItems in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 46
+[23-Mar-2014 21:39:23 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 37
+[23-Mar-2014 21:39:23 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 37
+[23-Mar-2014 21:39:23 America/Denver] PHP Notice:  Undefined variable: numOfItems in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 46
+[23-Mar-2014 21:40:36 America/Denver] PHP Warning:  Missing argument 1 for ItemSearch(), called in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 64 and defined in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 7
+[23-Mar-2014 21:40:36 America/Denver] PHP Warning:  Missing argument 2 for ItemSearch(), called in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 64 and defined in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 7
+[23-Mar-2014 21:40:37 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 32
+[23-Mar-2014 21:40:37 America/Denver] PHP Notice:  Undefined variable: numOfItems in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 46
+[23-Mar-2014 21:40:37 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 37
+[23-Mar-2014 21:40:37 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 37
+[23-Mar-2014 21:41:06 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 32
+[23-Mar-2014 21:41:06 America/Denver] PHP Notice:  Undefined variable: numOfItems in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 46
+[23-Mar-2014 21:41:06 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 37
+[23-Mar-2014 21:41:06 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 37
+[23-Mar-2014 21:41:07 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 32
+[23-Mar-2014 21:41:07 America/Denver] PHP Notice:  Undefined variable: numOfItems in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 46
+[23-Mar-2014 21:41:07 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 37
+[23-Mar-2014 21:41:07 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 37
+[23-Mar-2014 21:41:24 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 29
+[23-Mar-2014 21:41:24 America/Denver] PHP Notice:  Undefined variable: numOfItems in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 43
+[23-Mar-2014 21:41:24 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 34
+[23-Mar-2014 21:41:24 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 34
+[23-Mar-2014 21:41:41 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402&amp;ResponseGroup=ItemAttributes,Offers): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 29
+[23-Mar-2014 21:41:41 America/Denver] PHP Notice:  Undefined variable: numOfItems in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 43
+[23-Mar-2014 21:41:41 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 34
+[23-Mar-2014 21:41:41 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 34
+[23-Mar-2014 21:42:10 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402&amp;ResponseGroup=ItemAttributes,Offers): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 29
+[23-Mar-2014 21:42:10 America/Denver] PHP Notice:  Undefined variable: numOfItems in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 35
+[23-Mar-2014 21:42:40 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402&amp;ResponseGroup=ItemAttributes,Offers): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 29
+[23-Mar-2014 21:42:40 America/Denver] PHP Notice:  Undefined variable: parse_xml in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 31
+[23-Mar-2014 21:42:40 America/Denver] PHP Notice:  Undefined variable: numOfItems in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 36
+[23-Mar-2014 21:42:55 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402&amp;ResponseGroup=ItemAttributes,Offers): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 29
+[23-Mar-2014 21:42:55 America/Denver] PHP Notice:  Undefined variable: numOfItems in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 36
+[23-Mar-2014 21:42:56 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402&amp;ResponseGroup=ItemAttributes,Offers): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 29
+[23-Mar-2014 21:42:57 America/Denver] PHP Notice:  Undefined variable: numOfItems in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 36
+[23-Mar-2014 21:44:46 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402&amp;ResponseGroup=ItemAttributes,Offers): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 29
+[23-Mar-2014 21:44:46 America/Denver] PHP Notice:  Undefined variable: numOfItems in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 36
+[23-Mar-2014 21:44:58 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402&amp;ResponseGroup=ItemAttributes,Offers): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 29
+[23-Mar-2014 21:44:58 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 37
+[23-Mar-2014 21:44:58 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 37
+[23-Mar-2014 21:45:47 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402&amp;ResponseGroup=ItemAttributes,Offers): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 29
+[23-Mar-2014 21:45:47 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 36
+[23-Mar-2014 21:45:48 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402&amp;ResponseGroup=ItemAttributes,Offers): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 29
+[23-Mar-2014 21:45:48 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 36
+[23-Mar-2014 21:47:12 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402&amp;ResponseGroup=ItemAttributes,Offers): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 29
+[23-Mar-2014 21:47:12 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 36
+[23-Mar-2014 21:47:38 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402&amp;ResponseGroup=ItemAttributes,Offers): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 29
+[23-Mar-2014 21:47:38 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 35
+[23-Mar-2014 21:47:59 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402&amp;ResponseGroup=ItemAttributes,Offers): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 29
+[23-Mar-2014 21:47:59 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 35
+[23-Mar-2014 21:51:18 America/Denver] PHP Parse error:  syntax error, unexpected '$response' (T_VARIABLE) in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 29
+[23-Mar-2014 21:51:18 America/Denver] PHP Parse error:  syntax error, unexpected '$response' (T_VARIABLE) in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 29
+[23-Mar-2014 21:51:19 America/Denver] PHP Parse error:  syntax error, unexpected '$response' (T_VARIABLE) in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 29
+[23-Mar-2014 21:51:25 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 29
+[23-Mar-2014 21:51:25 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 35
+[23-Mar-2014 21:52:17 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 29
+[23-Mar-2014 21:52:17 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 34
+[23-Mar-2014 21:52:37 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 29
+[23-Mar-2014 21:52:37 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 34
+[23-Mar-2014 21:53:40 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;SearchIndex=Books&amp;Keywords=0321776402): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 29
+[23-Mar-2014 21:53:40 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 34
+[23-Mar-2014 21:55:43 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=auHO9fg7aMgI3VblAJuvd2O05I8UBH/hYDIu9Qae&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;Service=AWSECommerceService&amp;SearchIndex=Books&amp;Keywords=0321776402): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 30
+[23-Mar-2014 21:55:43 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 35
+[23-Mar-2014 21:59:34 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AssociateTag=compar03-20&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;Service=AWSECommerceService&amp;SearchIndex=Books&amp;Keywords=0321776402): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 30
+[23-Mar-2014 21:59:34 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 35
+[23-Mar-2014 22:01:47 America/Denver] PHP Warning:  file_get_contents(http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AWSAccessKeyId=AKIAJ6R3SJQHJKKVTTGA&amp;Operation=ItemSearch&amp;Version=2011-08-01&amp;Service=AWSECommerceService&amp;SearchIndex=Books&amp;Keywords=0321776402): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 30
+[23-Mar-2014 22:01:47 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 35
+[23-Mar-2014 22:12:09 America/Denver] PHP Notice:  Undefined index: region in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 22
+[23-Mar-2014 22:12:25 America/Denver] PHP Notice:  Undefined index: region in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 22
+[23-Mar-2014 22:13:49 America/Denver] PHP Notice:  Undefined index: region in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 22
+[23-Mar-2014 22:13:49 America/Denver] PHP Notice:  Undefined variable: SearchIndex in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 81
+[23-Mar-2014 22:13:56 America/Denver] PHP Notice:  Undefined index: region in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 22
+[23-Mar-2014 22:13:56 America/Denver] PHP Notice:  Undefined variable: SearchIndex in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 81
+[23-Mar-2014 22:15:27 America/Denver] PHP Notice:  Undefined index: region in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 22
+[23-Mar-2014 22:15:27 America/Denver] PHP Notice:  Undefined variable: SearchIndex in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 81
+[23-Mar-2014 22:15:28 America/Denver] PHP Notice:  Undefined index: region in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 22
+[23-Mar-2014 22:15:29 America/Denver] PHP Notice:  Undefined variable: SearchIndex in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 81
+[23-Mar-2014 22:16:26 America/Denver] PHP Notice:  Undefined index: region in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 22
+[23-Mar-2014 22:16:26 America/Denver] PHP Notice:  Undefined variable: SearchIndex in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 82
+[23-Mar-2014 22:16:52 America/Denver] PHP Notice:  Undefined index: region in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 23
+[23-Mar-2014 22:16:53 America/Denver] PHP Notice:  Undefined variable: SearchIndex in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 83
+[23-Mar-2014 22:17:03 America/Denver] PHP Notice:  Undefined index: region in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 23
+[23-Mar-2014 22:19:25 America/Denver] PHP Notice:  Undefined index: region in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 23
+[23-Mar-2014 22:20:13 America/Denver] PHP Notice:  Undefined index: region in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 23
+[23-Mar-2014 22:22:21 America/Denver] PHP Notice:  Undefined index: region in /home3/rsanekne/public_html/comparibooks/apiplay.php on line 23
